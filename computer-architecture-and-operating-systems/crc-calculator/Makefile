@@ -4,9 +4,6 @@ CFLAGS   = -Wall -Wextra -Wno-implicit-fallthrough -std=gnu17 -fPIC -O2
 
 all: crc
 
-#crc: crc.c
-#	gcc -O2 -o $@ $^
-
 crc.o: crc.asm
 	nasm -f elf64 -w+all -g -w+error -o $@ $^
 	
