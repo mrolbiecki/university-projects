@@ -1,0 +1,10 @@
+3
+10
+3
+Banacha
+Krakowskie
+Centrum
+15
+5
+1
+2 3 Banacha 3 Centrum 2 Krakowskie 10
