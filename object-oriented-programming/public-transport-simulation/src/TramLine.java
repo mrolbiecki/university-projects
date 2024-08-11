@@ -1,5 +1,4 @@
 import MinQueue.MinQueue;
-
 public class TramLine extends Line{
     private final Tram [] trams;
     private final int gap;
