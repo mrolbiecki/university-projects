@@ -1,0 +1,4 @@
+R R R R S S
+APL:145 MSFT:300 GOOGL:2700
+# one stock is wrong
+100000 APL:5 MSFT:15 WRONG:3
